@@ -1,6 +1,6 @@
 # Diplomová práca
 
-**Autor:** Adriana Mihalovitsová  
+**Autor:** Bc. Adriana Mihalovitsová  
 **Názov:** Metódy hlbokého učenia pre znalostné grafy  
 **Akademický rok:** 2024/25
 
